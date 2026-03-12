@@ -28,3 +28,9 @@ It demonstrates basic **data analysis, visualization, and report generation**.
 - status
 - admission_date
 - discharge_date
+
+## Data Generator 
+![Data Generator](https://github.com/ShivamMahto2105/Hospital-Report-Automation/blob/main/data.py)
+
+## Automation Code For Report and Charts
+![Automation Code](https://github.com/ShivamMahto2105/Hospital-Report-Automation/blob/main/Automation.py)
